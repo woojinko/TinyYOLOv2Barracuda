@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/VisualizerCpu.unity
     guid: 58a5c9f352f9065429b98817a2c238f9
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/VisualizerGpu.unity
+    guid: d451a7c76915e804787d5b718fad5b98
+  - enabled: 0
+    path: Assets/WoojinCPU.unity
+    guid: d18e96f126e8a24448c8daf964b73dc0
+  - enabled: 0
+    path: Assets/WoojinGPU.unity
+    guid: 5bbf51cbd0f224341878e64453573261
+  - enabled: 1
+    path: Assets/WoojinPixelizer.unity
+    guid: 0bc5f3381a2676844a517a8dd56843cc
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1f63d819e76455f429a1688718e78ae2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1fbe8ac2277f57143bc4ff825cf544bd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7dd94c23b7f9e7142988fab37eb144f3, type: 2}

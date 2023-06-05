@@ -229,10 +229,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40ff2e515a81541cbb664860588e2c6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _sourceType: 0
+  _sourceType: 2
   _texture: {fileID: 2800000, guid: bc61b3cdc2215449693f549809cda2ac, type: 3}
   _textureUrl: 
-  _video: {fileID: 0}
+  _video: {fileID: 32900000, guid: 201cdba103625914383556b6a4bfae05, type: 3}
   _videoUrl: 
   _webcamName: 
   _webcamResolution: {x: 1920, y: 1080}

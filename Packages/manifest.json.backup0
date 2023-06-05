@@ -1,0 +1,25 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.barracuda": "3.0.0",
+    "com.unity.ugui": "1.0.0",
+    "jp.keijiro.klak.testtools": "1.1.0",
+    "com.microsoft.mrtk.core": "file:MixedReality/com.microsoft.mrtk.core-3.0.0-pre.16.tgz",
+    "com.microsoft.mrtk.input": "file:MixedReality/com.microsoft.mrtk.input-3.0.0-pre.16.tgz",
+    "com.microsoft.mrtk.spatialmanipulation": "file:MixedReality/com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.16.tgz",
+    "com.microsoft.mrtk.standardassets": "file:MixedReality/com.microsoft.mrtk.standardassets-3.0.0-pre.16.tgz",
+    "com.microsoft.mrtk.uxcomponents": "file:MixedReality/com.microsoft.mrtk.uxcomponents-3.0.0-pre.16.tgz",
+    "com.microsoft.mrtk.uxcore": "file:MixedReality/com.microsoft.mrtk.uxcore-3.0.0-pre.16.tgz",
+    "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-1.8.0.tgz",
+    "com.microsoft.spatialaudio.spatializer.unity": "file:MixedReality/com.microsoft.spatialaudio.spatializer.unity-2.0.37.tgz",
+    "com.microsoft.mrtk.graphicstools.unity": "file:MixedReality/com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz"
+  }
+}
