@@ -138,11 +138,11 @@ MonoBehaviour:
   _sourceType: 2
   _texture: {fileID: 0}
   _textureUrl: 
-  _video: {fileID: 0}
+  _video: {fileID: 32900000, guid: 201cdba103625914383556b6a4bfae05, type: 3}
   _videoUrl: 
   _webcamName: 
   _webcamResolution: {x: 1920, y: 1080}
-  _webcamFrameRate: 30
+  _webcamFrameRate: 60
   _camera: {fileID: 0}
   _outputTexture: {fileID: 0}
   _outputResolution: {x: 1920, y: 1080}
